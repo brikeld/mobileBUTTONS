@@ -4,39 +4,223 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mobile Buttons</title>
+    <title>Film Filter Mobile Controller</title>
     <style>
-      .mobile-buttons {
+      body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        padding: 20px;
+        max-width: 600px;
+        margin: 0 auto;
+        background-color: #1a1a1a;
+        color: white;
+      }
+      h1 {
+        text-align: center;
+        margin-bottom: 30px;
+        font-size: 24px;
+      }
+      h2 {
+        font-size: 18px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        border-bottom: 1px solid #333;
+        padding-bottom: 5px;
+      }
+      .category {
+        margin-bottom: 20px;
+      }
+      .buttons-container {
         display: flex;
         flex-wrap: wrap;
         gap: 10px;
-        padding: 20px;
       }
-      .mobile-button {
-        padding: 10px 20px;
-        border: none;
-        border-radius: 5px;
-        background-color: #4CAF50;
+      button {
+        background-color: #333;
         color: white;
-        cursor: pointer;
+        border: none;
+        padding: 10px 16px;
+        border-radius: 50px;
         font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s, transform 0.2s;
       }
-      .mobile-button:hover {
-        background-color: #45a049;
+      button:active {
+        transform: scale(0.95);
       }
-      .mobile-button.reset {
-        background-color: #f44336;
+      button:hover {
+        background-color: #444;
       }
-      .mobile-button.reset:hover {
-        background-color: #da190b;
+      #reset_filters {
+        background-color: #555;
+        margin-top: 30px;
+        width: 100%;
+        padding: 15px;
+        font-weight: bold;
       }
     </style>
   </head>
   <body>
-
-    <button id="male">male</button>
-    <button id="female">female</button>
-
+    <h1>Film Filter Remote Control</h1>
+    
+    <!-- Reset Button -->
+    <button id="reset_filters">Reset All Filters</button>
+    
+    <!-- Demographics -->
+    <div class="category">
+      <h2>Gender</h2>
+      <div class="buttons-container">
+        <button id="male">male</button>
+        <button id="female">female</button>
+        <button id="non-binary">non-binary</button>
+      </div>
+    </div>
+    
+    <div class="category">
+      <h2>Ethnicity</h2>
+      <div class="buttons-container">
+        <button id="white">white</button>
+        <button id="black">black</button>
+        <button id="asian">asian</button>
+        <button id="latinx">latinx</button>
+        <button id="indigenous">indigenous</button>
+        <button id="other">other</button>
+      </div>
+    </div>
+    
+    <div class="category">
+      <h2>Age Range</h2>
+      <div class="buttons-container">
+        <button id="child">child</button>
+        <button id="adult">adult</button>
+        <button id="senior">senior</button>
+      </div>
+    </div>
+    
+    <!-- Personality Traits -->
+    <div class="category">
+      <h2>Personality Traits</h2>
+      <div class="buttons-container">
+        <button id="introvert">introvert</button>
+        <button id="extrovert">extrovert</button>
+        <button id="ambivert">ambivert</button>
+      </div>
+    </div>
+    
+    <div class="category">
+      <h2>Qualities</h2>
+      <div class="buttons-container">
+        <button id="intelligence">intelligence</button>
+        <button id="empathy">empathy</button>
+        <button id="strength">strength</button>
+        <button id="creativity">creativity</button>
+        <button id="determination">determination</button>
+        <button id="charisma">charisma</button>
+        <button id="resourcefulness">resourcefulness</button>
+        <button id="courage">courage</button>
+        <button id="humor">humor</button>
+        <button id="loyalty">loyalty</button>
+      </div>
+    </div>
+    
+    <div class="category">
+      <h2>Biggest Fear</h2>
+      <div class="buttons-container">
+        <button id="death">death</button>
+        <button id="failure">failure</button>
+        <button id="loneliness">loneliness</button>
+        <button id="betrayal">betrayal</button>
+        <button id="love_loss">love loss</button>
+        <button id="poverty">poverty</button>
+        <button id="power_loss">power loss</button>
+      </div>
+    </div>
+    
+    <!-- Moral Ambiguity -->
+    <div class="category">
+      <h2>Betrays Others</h2>
+      <div class="buttons-container">
+        <button id="betrays_yes">yes</button>
+        <button id="betrays_no">no</button>
+        <button id="betrays_unknown">unknown</button>
+      </div>
+    </div>
+    
+    <!-- Background -->
+    <div class="category">
+      <h2>Tragic Past</h2>
+      <div class="buttons-container">
+        <button id="tragic_explicit">explicit</button>
+        <button id="tragic_implied">implied</button>
+        <button id="tragic_none">none</button>
+        <button id="tragic_unknown">unknown</button>
+      </div>
+    </div>
+    
+    <!-- Socioeconomic -->
+    <div class="category">
+      <h2>Income Level</h2>
+      <div class="buttons-container">
+        <button id="income_poor">poor</button>
+        <button id="income_middle_class">middle class</button>
+        <button id="income_rich">rich</button>
+        <button id="income_unknown">unknown</button>
+      </div>
+    </div>
+    
+    <!-- Narrative Arc -->
+    <div class="category">
+      <h2>Goal Achievement</h2>
+      <div class="buttons-container">
+        <button id="goal_fully">fully</button>
+        <button id="goal_partially">partially</button>
+        <button id="goal_not_at_all">not at all</button>
+        <button id="goal_ambiguous">ambiguous</button>
+      </div>
+    </div>
+    
+    <div class="category">
+      <h2>Success Metrics</h2>
+      <div class="buttons-container">
+        <button id="success_fully">fully</button>
+        <button id="success_partially">partially</button>
+        <button id="success_not_at_all">not at all</button>
+        <button id="success_ambiguous">ambiguous</button>
+      </div>
+    </div>
+    
+    <!-- Relationships & Family -->
+    <div class="category">
+      <h2>Parental Status</h2>
+      <div class="buttons-container">
+        <button id="parent">parent</button>
+        <button id="not_parent">not parent</button>
+        <button id="lost_child">lost child</button>
+        <button id="parent_unknown">unknown</button>
+      </div>
+    </div>
+    
+    <div class="category">
+      <h2>Siblings Status</h2>
+      <div class="buttons-container">
+        <button id="only_child">only child</button>
+        <button id="siblings">siblings</button>
+        <button id="orphan">orphan</button>
+        <button id="sibling_unknown">unknown</button>
+      </div>
+    </div>
+    
+    <!-- Dialogue Analysis -->
+    <div class="category">
+      <h2>Swear Frequency</h2>
+      <div class="buttons-container">
+        <button id="never">never</button>
+        <button id="rare">rare</button>
+        <button id="occasional">occasional</button>
+        <button id="frequent">frequent</button>
+        <button id="excessive">excessive</button>
+      </div>
+    </div>
+    
     <script type="module" src="/js/mainMobile.js"></script>
   </body>
-</html>
+</html> 
