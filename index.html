@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mobile Buttons</title>
+    <style>
+      .mobile-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        padding: 20px;
+      }
+      .mobile-button {
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        background-color: #4CAF50;
+        color: white;
+        cursor: pointer;
+        font-size: 16px;
+      }
+      .mobile-button:hover {
+        background-color: #45a049;
+      }
+      .mobile-button.reset {
+        background-color: #f44336;
+      }
+      .mobile-button.reset:hover {
+        background-color: #da190b;
+      }
+    </style>
+  </head>
+  <body>
+
+    <button id="male">male</button>
+    <button id="female">female</button>
+
+    <script type="module" src="/js/mainMobile.js"></script>
+  </body>
+</html>
