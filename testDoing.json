@@ -1,0 +1,4078 @@
+{
+  "characters": [
+    {
+      "film_info": {
+        "film_name": "ANORA",
+        "year": 2025,
+        "genre": [
+          "drama",
+          "romance"
+        ],
+        "box_office": 59574302,
+        "image_path": "public/cofanetto/Ani.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Ani"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "extrovert",
+          "biggest_fear": {
+            "category": "betrayal",
+            "reason_specific_description": "Ani fears betrayal because it undermines the trust and personal connections she relies on in an environment where relationships are often transactional."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "Her ability to quickly assess and navigate complex situations—whether negotiating with clients or standing up for herself—showcases a high degree of resourcefulness."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Ani generally upholds a personal code of loyalty despite the rough and transactional nature of her work environment."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "frequent",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "While not fully detailed, hints of economic and emotional hardships suggest a challenging past that has shaped her tough exterior."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "erotic dancer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "ambiguous",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To assert her independence and redefine her identity beyond her role as an erotic dancer, seeking both financial autonomy and emotional fulfillment."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "No Country for Old Men",
+        "year": 2008,
+        "genre": [
+          "thriller",
+          "crime",
+          "drama"
+        ],
+        "box_office": 171632777,
+        "image_path": "public/cofanetto/Anton.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Anton Chigurh"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Chigurh fears not fulfilling his destiny. For example, in the coin toss scene at the gas station, he forces the proprietor to call 'heads' or 'tails', showing that he believes every action must have a clear outcome. Failing to get it right would go against his strict code."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "He is extremely focused on his work. His determined nature is seen in how he methodically follows his own set of rules, like when he never hesitates to kill if he believes it is meant to happen. His unwavering commitment is a key aspect of his character throughout the film."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Chigurh follows a personal, harsh moral code that often puts him at odds with others. For instance, he makes life and death decisions by a coin toss, showing that he betrays typical human empathy in favor of his own logic."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "unknown",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "unknown",
+          "tragic_past_reason": "The film gives little information about Chigurh's background. He remains an enigma, with his past never fully explained, which adds to his mysterious and intimidating presence."
+        },
+        "socioeconomic": {
+          "income_level": "unknown",
+          "occupation": "hitman"
+        },
+        "narrative_arc": {
+          "goal_achievement": "ambiguous",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To carry out his deadly work by following his own strict and fatalistic rules, forcing others to face the randomness and harsh truth of fate, as shown by his cold exchanges in the film."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "1917",
+        "year": 2019,
+        "genre": [
+          "drama",
+          "action"
+        ],
+        "box_office": 446064352,
+        "image_path": "public/cofanetto/1917.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Lance Corporal Blake"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Blake fears failing his crucial mission, as such a failure might endanger his comrades and his brother. His anxiety over not being able to save those he cares about constantly haunts him."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "His unwavering determination drives him to overcome seemingly insurmountable obstacles in the face of overwhelming war-torn challenges."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "He remains steadfastly loyal to his comrades and follows the chain of command, even under extreme pressure, showing no signs of betraying those around him."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "bloody"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "His previous battle experiences and the loss of close comrades hint at a painful past that fuels his urgent drive and resilience during his mission."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "soldier"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To deliver a critical message to prevent a disastrous attack and save the lives of his comrades, including ensuring his brother's safety."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Schindler's List",
+        "year": 1993,
+        "genre": [
+          "drama",
+          "historical",
+          "biography"
+        ],
+        "box_office": 322161245,
+        "image_path": "public/cofanetto/Schindler.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Oskar Schindler"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "extrovert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Schindler fears losing his business empire and social status, especially as he risks everything to save his Jewish workers. His shift from opportunist businessman to moral savior shows his fear of failing both as a human and as a protector."
+          },
+          "biggest_strength": {
+            "category": "charisma",
+            "reason_specific_description": "Schindler's greatest strength is his charm and persuasive nature. Throughout the film, he uses it to win over Nazi officials, secure deals, and protect Jewish lives without raising suspicion."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "In the beginning, Schindler exploits Jewish labor for profit without concern for their fate, which could be seen as betrayal. However, his priorities change as he grows more empathetic and starts risking his life to save them."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "damn"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "While the film focuses on Schindler's wartime actions, hints suggest financial struggles and personal failures in his past, driving his initial greed and later his redemption."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "industrialist and businessman"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To save as many Jewish lives as possible by employing them in his factory and shielding them from the Holocaust, evolving from profit-seeker to humanist hero."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Titanic",
+        "year": 1997,
+        "genre": [
+          "drama",
+          "romance"
+        ],
+        "box_office": 2264812968,
+        "image_path": "public/cofanetto/titanic.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Jack Dawson"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "extrovert",
+          "biggest_fear": {
+            "category": "poverty",
+            "reason_specific_description": "Jack has lived a life of hardship, traveling the world as a poor artist and gambler. His biggest fear is being trapped in a life with no freedom or adventure, limited by money or class."
+          },
+          "biggest_strength": {
+            "category": "charisma",
+            "reason_specific_description": "Jack's easy charm helps him connect with anyone, from steerage passengers to upper-class strangers like Rose. His optimism and open heart win over people despite class divides."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Jack remains loyal to Rose and his friends even when risking his own life. He never betrays anyone, even under pressure or during the disaster."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "shit"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Jack's dialogue hints at a rough upbringing and a life of struggle. His experiences as a drifting artist and gambler reflect someone shaped by loss and survival."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "artist"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To live freely and fully, embracing love and adventure, and help Rose escape her confined upper-class life, even if it means sacrificing his own future."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "American Beauty",
+        "year": 1999,
+        "genre": [
+          "drama"
+        ],
+        "box_office": 356296601,
+        "image_path": "public/cofanetto/AmericanBeauty.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Lester Burnham"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Lester fears living an unfulfilled, unnoticed, and meaningless life. His growing disconnect from his wife, daughter, and work highlights this fear, especially as he searches for lost youth and purpose."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Lester's strength lies in his decision to break out of his suburban numbness. He quits his dead-end job, seeks personal happiness, and dares to pursue change, even if imperfectly."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Lester emotionally distances himself from his family and flirts with Angela, a much younger friend of his daughter, showing both selfishness and moral weakness despite later pulling back from crossing that line."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Lester's midlife crisis suggests long-term unhappiness and emotional neglect, although the film doesn't directly reveal a single traumatic event."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "advertising writer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To rediscover happiness and freedom from the expectations and conformity of suburban life, even as it leads to his personal and literal end."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Gladiator",
+        "year": 2000,
+        "genre": [
+          "drama",
+          "action"
+        ],
+        "box_office": 465516248,
+        "image_path": "public/cofanetto/Gladiator.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Maximus Decimus Meridius"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "Maximus fears the loss of his family, which is his emotional anchor. His worst nightmare comes true when his wife and son are murdered, leaving him driven only by grief and revenge."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Maximus shows unwavering bravery, both as a Roman general and a gladiator. Even as a slave, his courage inspires others, and he faces death with dignity and honor."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Maximus remains loyal to his principles, even after losing his rank and family. Despite being betrayed by Rome, he never abandons his honor or friends."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "damn"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Maximus' wife and son are murdered by the Emperor's order, and his home is destroyed. This event defines his journey from general to gladiator, fueling his desire for justice and vengeance."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "general"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To avenge his family and fulfill the dying wish of Marcus Aurelius: to restore Rome to its people by confronting Emperor Commodus."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "A Beautiful Mind",
+        "year": 2001,
+        "genre": [
+          "drama",
+          "biography"
+        ],
+        "box_office": 316791257,
+        "image_path": "public/cofanetto/BeatifulMind.png"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "John Nash"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Nash fears that if he fails to produce original ideas, he will be forgotten and meaningless, both as a scholar and a person. His drive to stand out and his despair during creative blocks reveal this fear deeply."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "His mind processes patterns and abstract ideas at a genius level, allowing him to solve complex mathematical problems that others can't. This gift eventually leads to breakthroughs that change economic theory."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Despite struggling with schizophrenia and paranoia, Nash remains loyal to his wife and dedicated to his academic work. His ethical choices, even under psychological stress, show honesty and resilience rather than betrayal."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "damn"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Nash's battle with schizophrenia, which distorts his perception of reality and isolates him from his peers, family, and professional life, becomes a core tragedy of his story."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "mathematician"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To achieve intellectual recognition through groundbreaking mathematical theories, while learning to live with his mental illness and maintain his personal relationships."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Crash",
+        "year": 2004,
+        "genre": [
+          "drama"
+        ],
+        "box_office": 98410061,
+        "image_path": "public/cofanetto/Crash.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Graham Waters"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "black"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Graham fears emotional isolation, especially from his family and his mother. His detachment is clear in his strained family relationships, especially the guilt he carries over his brother."
+          },
+          "biggest_strength": {
+            "category": "empathy",
+            "reason_specific_description": "Despite his tough exterior, Graham is deeply observant and empathetic. His sensitivity shows when he processes the injustices he faces, and his commitment to doing his job as a detective with care and thoughtfulness."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Graham remains professional and loyal, even when dealing with personal and ethical conflicts, particularly concerning his family and police duties."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "shit"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Graham grew up in a broken household with an absent father and a mother struggling with addiction. His brother becomes involved in crime, leading to guilt and grief after his brother's death."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "detective"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To balance his professional duty with his personal life while facing systemic racism, strained family ties, and moral dilemmas in a fragmented and hostile city."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "The Departed",
+        "year": 2006,
+        "genre": [
+          "drama",
+          "thriller",
+          "crime"
+        ],
+        "box_office": 291481358,
+        "image_path": "public/cofanetto/The Departed.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Billy Costigan"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "betrayal",
+            "reason_specific_description": "Billy fears being exposed as an undercover cop, which would not only cost him his life but also betray his moral code. The tension of hiding his true identity constantly pushes him to the edge."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Despite constant fear, Billy shows immense bravery. He infiltrates the criminal underworld and stays committed to his dangerous mission, even as it takes a heavy personal and emotional toll."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Billy stays loyal to the police and his principles despite enduring isolation and violence in the criminal world. He resists the temptation to save himself by betraying others."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "frequent",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Billy comes from a fractured family with criminal ties, lost his father, and grew up caught between two worlds — the honest life his father wanted for him and the crime world surrounding his relatives."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "undercover state trooper"
+        },
+        "narrative_arc": {
+          "goal_achievement": "not_at_all",
+          "success_metrics": "partially",
+          "primary_goal": "To gather enough evidence against Frank Costello while protecting his true identity and preserving his own integrity, even as his life unravels under pressure."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Birdman",
+        "year": 2014,
+        "genre": [
+          "drama",
+          "comedy"
+        ],
+        "box_office": 103215094,
+        "image_path": "public/cofanetto/Birdman.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Riggan Thomson"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Riggan fears becoming irrelevant and forgotten. His struggle to be taken seriously as an artist beyond his old superhero fame drives the entire plot, especially during the previews and his conflicts with critics and family."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Despite self-doubt, mental struggles, and public humiliation, Riggan pushes forward with his stage play, risking everything — reputation, relationships, and finances — to prove his worth and artistic relevance."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "He betrays his daughter Sam's trust by being absent from her life emotionally, and deceives those around him about his mental state, often masking his breakdowns with lies or avoidance."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Riggan's past as a washed-up movie star who lost fame, artistic respect, and family connection is a quiet tragedy, implied through his desperation to reclaim meaning via the Broadway play."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "actor / director"
+        },
+        "narrative_arc": {
+          "goal_achievement": "ambiguous",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To regain artistic credibility and personal relevance beyond his Birdman fame, and to reconnect with his daughter."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "12 Years a Slave",
+        "year": 2013,
+        "genre": [
+          "drama",
+          "historical"
+        ],
+        "box_office": 187734091,
+        "image_path": "public/cofanetto/12 Years a Slave.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Solomon Northup"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "black"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Solomon fears losing his family and identity. After being kidnapped and enslaved, he clings to the hope of reunion with his wife and children, which keeps him fighting for survival."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Throughout the film, Solomon endures brutal conditions and injustice while refusing to fully surrender his identity or humanity, determined to regain his freedom and see his family again."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Despite extreme hardship and abuse, Solomon remains loyal to his morals and refuses to betray his fellow slaves, even when silence or compliance might have eased his suffering."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": [
+            ""
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Solomon was a free black man living in New York with a family, but was deceived, kidnapped, and sold into slavery, enduring years of brutality and injustice before regaining freedom."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "musician / laborer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To survive enslavement and return to his family while retaining his dignity and identity as a free man."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Spotlight",
+        "year": 2015,
+        "genre": [
+          "drama",
+          "historical"
+        ],
+        "box_office": 98690254,
+        "image_path": "public/cofanetto/Spotlight.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Walter 'Robby' Robinson"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Robby fears failing to uncover the truth, especially on stories that deeply impact the community, like the Catholic Church abuse scandal. His fear is shown in his dedication and cautious approach, even when facing pressure from the paper or the Church."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Robby's commitment to investigative journalism drives the Spotlight team forward, even when the story faces pushback. He insists on getting solid proof before publishing, and leads the team to uncover a systemic cover-up by the Church."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Robby stays loyal to the truth and his team throughout the investigation, even when the story implicates powerful institutions and causes personal doubts about the paper's past coverage."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": 
+            "shit"
+          
+        },
+        "background_history": {
+          "tragic_past": "none",
+          "tragic_past_reason": [
+            "The script doesn't show Robby having a personal tragic past, his focus is professional integrity and the impact of journalism rather than personal trauma."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "journalist"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To uncover and publish the truth about systemic child abuse in the Boston Catholic Church and expose the institutional cover-up."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Moonlight",
+        "year": 2016,
+        "genre": [
+          "drama"
+        ],
+        "box_office": 65172611,
+        "image_path": "public/cofanetto/Moonlight.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Chiron"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "black"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Throughout his life, Chiron fears isolation — from childhood to adulthood, he's often physically and emotionally alone, craving acceptance and understanding, especially as he questions his identity."
+          },
+          "biggest_strength": {
+            "category": "resilience",
+            "reason_specific_description": "Despite enduring bullying, neglect, and emotional abuse, Chiron keeps moving forward, growing from a quiet, scared boy into an adult who has learned to survive and protect himself."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Chiron remains loyal to the people who showed him kindness, like Juan and Teresa, and never betrays his friend Kevin even after being hurt emotionally and physically."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "only_child"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Chiron grew up with an abusive, addicted mother, faced severe bullying for his perceived sexuality, and had few supportive adults in his life beyond Juan and Teresa."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "drug dealer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To find love, acceptance, and a sense of identity in a world that constantly denies him both."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Napoleon",
+        "year": 2023,
+        "genre": [
+          "drama",
+          "action",
+          "historical"
+        ],
+        "box_office": 221394838,
+        "image_path": "public/cofanetto/Napoleon.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Napoleon Bonaparte"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "Napoleon is deeply afraid of losing both his authority and the love he has for Josephine. In the film, his reaction when he learns about her infidelity shows a vulnerability beneath his commanding exterior; he is terrified that personal betrayal will undermine his power."
+          },
+          "biggest_strength": {
+            "category": "strategic_brilliance",
+            "reason_specific_description": "His ability to assess a military situation and turn setbacks into victories is repeatedly shown. For example, during the battle at Toulon, he devises clever tactics to take the fort and force the surrender of the port, proving that his innovative ideas on the battlefield are a key reason for his rise to power."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Napoleon is willing to manipulate and even betray allies to secure his position. In the film, he capitalizes on political chaos and arranges coups, showing that his ambition sometimes comes at the expense of loyalty and conventional morality."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "has siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "minimal",
+          "most_used_swear_word": [
+            "none"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Napoleon's early life on Corsica under foreign rule and the turbulent revolutionary period form a backdrop to his ambitions. The film hints that his harsh beginnings fuel both his ambition and his fear of failure."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "military general"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "complex",
+          "primary_goal": "To seize power and forge a new French state, uniting the country through military triumphs and political maneuvers, while also grappling with personal insecurities and the complexities of his relationship with Josephine."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Shutter Island",
+        "year": 2010,
+        "genre": [
+          "thriller",
+          "mystery",
+          "psychological drama"
+        ],
+        "box_office": 294978537,
+        "image_path": "public/cofanetto/Shutter Island.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Teddy Daniels"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loss of sanity",
+            "reason_specific_description": "Teddy is haunted by the fear of losing grip on reality. His inner turmoil—stemming from traumatic war experiences and the loss of his wife—manifests in his dread of confronting painful memories. For instance, his disturbing visions and relentless quest for the truth about Ashecliffe Hospital highlight his terror of what he might uncover about himself."
+          },
+          "biggest_strength": {
+            "category": "unwavering determination",
+            "reason_specific_description": "Despite the overwhelming weight of his inner demons, Teddy's strength lies in his relentless pursuit of truth. His dogged investigation into the mysteries at Ashecliffe, including daring moments like questioning the authenticity of his surroundings while on the ferry, showcases his drive even as his own mind becomes his worst enemy."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Teddy's methods are not always clear-cut or ethical; his fixation on uncovering secrets leads him to manipulate facts and question allies, suggesting that he blurs the line between heroism and self-deception. This moral gray area is evident when his investigation seems as much about confronting his own buried past as it is about the case at hand."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Teddy's background is steeped in tragedy—from the loss of his wife to the horrors he experienced during the war. These elements not only fuel his investigation but also contribute to the fracturing of his mental state."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "U.S. Marshal"
+        },
+        "narrative_arc": {
+          "goal_achievement": "ambiguous",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To unravel the mystery of Ashecliffe Hospital and find the missing patient, which ultimately forces him to confront the buried truths of his own life."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "The Martian",
+        "year": 2015,
+        "genre": [
+          "science fiction",
+          "drama",
+          "thriller"
+        ],
+        "box_office": 630521406,
+        "image_path": "public/cofanetto/The Martian.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Mark Watney"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "isolation and failure",
+            "reason_specific_description": "Mark is deeply afraid of being completely alone on an alien world and failing to survive. His video log moments—where he half-jokes 'fuck' and acknowledges the immense challenge of making water, food, and life support last—highlight his terror of not overcoming the planet's harsh reality."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "His greatest strength is his ingenious ability to improvise under extreme conditions. For example, when he turns the habitat into an impromptu farm by covering every surface with soil to grow potatoes, it shows a brilliant mix of scientific curiosity and survival instinct."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Mark stays true to his own code of survival and ethics. While he makes tough decisions (like sacrificing comfort to extend resources), he never deliberately betrays his crewmates or his responsibility to NASA."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "minimal",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "While the film focuses on his current struggle, hints of his military background and the loss experienced during the journey underscore a history that fuels his determination to survive."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "astronaut / botanist"
+        },
+        "narrative_arc": {
+          "goal_achievement": "complex",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To engineer his survival on Mars—converting a hostile environment into a livable space and finding a way to communicate with Earth—while grappling with the enormity of isolation and the pressure of imminent rescue."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Amélie",
+        "year": 2001,
+        "genre": [
+          "romantic",
+          "comedy",
+          "fantasy"
+        ],
+        "box_office": 175183052,
+        "image_path": "public/cofanetto/amelie.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Amélie Poulain"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Amélie is deeply haunted by the fear of isolation—of living life without true connection. Her internal monologues and imaginative escapades reveal a woman who dreads the possibility of being forever unnoticed, a sentiment that drives her secret interventions in the lives of those around her."
+          },
+          "biggest_strength": {
+            "category": "compassion",
+            "reason_specific_description": "Her gentle, empathetic nature is the cornerstone of her character. Amélie's ability to observe life's minutiae transforms ordinary moments into magic, allowing her to craft small acts of kindness that ripple far beyond her quiet existence. This compassion not only sustains her but also becomes a subtle force that uplifts others."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Throughout the film, Amélie's actions are driven by an unwavering ethical compass. Despite her secretive nature and the unconventional ways she orchestrates changes in her community, she never compromises her integrity or betrays the trust of those she loves."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "only_child"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "noone"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Growing up in an environment marked by emotional neglect—the loss of her father and a distant, overprotective mother—Amélie has always navigated life from the fringes. This childhood loneliness spurred her rich inner world, which, while providing her with refuge, also set the stage for her lifelong quest for meaning and connection."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "waitress"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "partially",
+          "primary_goal": "To overcome the confines of isolation by transforming her own life and the lives of those around her through small, deliberate acts of kindness—ultimately opening herself up to love and authentic human connection."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "The Return of the King",
+        "year": 2003,
+        "genre": [
+          "fantasy",
+          "adventure",
+          "drama"
+        ],
+        "box_office": 1123837908,
+        "image_path": "public/cofanetto/theLordofTheRings-ReturnOfTheKing.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Frodo Baggins"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Frodo fears failing to destroy the Ring and letting evil win. This fear grows stronger the closer he gets to Mount Doom, like when he begins to falter under the Ring’s weight and influence in the final stretch."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Frodo’s greatest strength is his quiet bravery. He continues the journey to Mordor despite overwhelming danger, isolation, and psychological torment, showing true heroism by enduring when others would give up."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "At Mount Doom, Frodo chooses to keep the Ring instead of destroying it. Though the Ring corrupts him, this moment shows how even good intentions can falter under great power."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "orphan"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": [
+            "none"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Frodo is an orphan raised by his uncle Bilbo, which helps explain his deep connection to the Shire and his need to protect it from evil, even at great personal cost."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "ring-bearer (formerly a hobbit of leisure)"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To destroy the One Ring in Mount Doom and save Middle-earth from Sauron, though he ultimately cannot destroy it himself and is saved by Gollum's intervention."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "The King's Speech",
+        "year": 2010,
+        "genre": [
+          "drama",
+          "historical",
+          "biographical"
+        ],
+        "box_office": 471000000,
+        "image_path": "public/cofanetto/TheKingSpeech.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "King George VI (Bertie)"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Bertie fears failing in his royal duties because of his stammer. His panic before public speeches, especially during his first wartime address, shows how deeply he dreads letting people down."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "His willingness to undergo difficult speech therapy, despite his pride and status, shows great determination. He never gives up, even when progress is slow or humiliating."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Bertie is loyal and sincere. He struggles with duty and personal fear, but he does not betray those around him—even when pressured by his brother’s abdication or his therapist’s methods."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": "shit"
+          
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Bertie grew up in a strict royal environment, was left-handed but forced to switch, and developed a stammer from early childhood. These pressures shaped his anxiety and insecurity."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "King of the United Kingdom"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To overcome his stammer and confidently lead his country through public speaking, especially during the outbreak of World War II."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "The Shape of Water",
+        "year": 2017,
+        "genre": [
+          "romance",
+          "fantasy",
+          "drama"
+        ],
+        "box_office": 195243184,
+        "image_path": "public/cofanetto/ShapeOfWater.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Elisa Esposito"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Elisa’s life is marked by silence and isolation due to her muteness. Her fear of being alone is clear in how deeply she connects with the creature, who also exists on the margins of society."
+          },
+          "biggest_strength": {
+            "category": "empathy",
+            "reason_specific_description": "Her ability to understand and care for others, especially the creature, is what drives her to risk everything. Her emotional intelligence gives her the strength to act when no one else will."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "She goes against her government job and the authorities to save the creature. Though her actions are compassionate, they involve breaking laws and deceiving those around her."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": [
+            "none"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Elisa was found abandoned as a child with scars on her neck that left her mute. Her lonely, voiceless past shapes her bond with the creature, who also cannot speak."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "cleaning staff at a government facility"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To save the creature and find a meaningful, loving connection, even if it means leaving her world behind."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Green Book",
+        "year": 2018,
+        "genre": [
+          "drama",
+          "biographical",
+          "road movie"
+        ],
+        "box_office": 321800000,
+        "image_path": "public/cofanetto/GreenBook.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Tony Lip (Frank Vallelonga)"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "extrovert",
+          "biggest_fear": {
+            "category": "poverty",
+            "reason_specific_description": "At the start of the film, Tony loses his job and is willing to do nearly anything to support his family. His decision to take a job far from home, driving Dr. Shirley through the Deep South, is motivated by financial fear and duty."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "Tony is quick-thinking and adaptable. He gets them out of dangerous situations on the road using charm, strength, or by bending the rules, such as talking his way out of being arrested in the South."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Tony is rough around the edges and prejudiced at first, but he remains loyal to Dr. Shirley. His personal growth is marked by increased respect and empathy, not betrayal."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "frequent",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "none",
+          "tragic_past_reason": [
+            "Tony does not have a tragic backstory. His struggles are based more in working-class survival and limited education than past trauma."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "working class",
+          "occupation": "nightclub bouncer / driver"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To provide for his family and maintain his pride, which transforms into forming a real friendship with Dr. Shirley and overcoming his own biases."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Parasite",
+        "year": 2019,
+        "genre": [
+          "thriller",
+          "drama",
+          "dark comedy"
+        ],
+        "box_office": 263100000,
+        "image_path": "public/cofanetto/Parasite.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Kim Ki-taek"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "asian"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "poverty",
+            "reason_specific_description": "Ki-taek fears returning to deep poverty and becoming invisible to society again. He often hides his anxiety behind humor and a calm exterior, but scenes like the family's reaction to the flood show how fragile his sense of stability really is."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "He adapts quickly to situations, like when he seamlessly plays the role of a professional driver for the Park family, and helps the entire Kim family infiltrate the household through clever manipulation."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Ki-taek goes along with a plan that involves lying and exploiting the Park family. Later, overwhelmed by class tension and humiliation, he stabs Mr. Park during the party, showing how far he’s been pushed by social inequality."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "shit"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Though not spelled out, Ki-taek has a long history of economic hardship. His passive behavior and grim acceptance of life’s unfairness suggest years of quiet suffering and disappointment."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "unemployed (later hired as a driver)"
+        },
+        "narrative_arc": {
+          "goal_achievement": "not_at_all",
+          "success_metrics": "not_at_all",
+          "primary_goal": "To rise out of poverty and secure a better life for his family, which ultimately fails as tragedy strikes and he ends up hiding in the Park family's basement."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Nomadland",
+        "year": 2020,
+        "genre": [
+          "drama",
+          "road movie"
+        ],
+        "box_office": 39500000,
+        "image_path": "public/cofanetto/nomadLand.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Fern"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "senior",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "After losing her husband and her entire town, Fern fears becoming emotionally disconnected. She avoids settling down because she doesn’t want to lose her independence, yet her quiet sadness shows she longs for connection."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "She adapts to life on the road with dignity and patience—fixing her van, working seasonal jobs, and finding community among fellow nomads. Her strength is in surviving hardship with calm persistence."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Fern never manipulates or harms others. She’s honest and respectful in her interactions, though she sometimes distances herself emotionally to avoid being hurt again."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": 
+            "shit"
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Fern lost her husband and her livelihood when the factory in Empire shut down. The collapse of the town and her personal grief pushed her into a new, nomadic way of living."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "seasonal worker (Amazon, beet harvest, etc.)"
+        },
+        "narrative_arc": {
+          "goal_achievement": "ambiguous",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To find peace and meaning in a life outside of society’s structure, while carrying the memory of her husband and past life."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Anatomy of a Fall",
+        "year": 2023,
+        "genre": [
+          "drama",
+          "mystery",
+          "legal thriller"
+        ],
+        "box_office": 36050000,
+        "image_path": "public/cofanetto/anatomyofafall.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Sandra Voyter"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "betrayal",
+            "reason_specific_description": "Sandra fears losing control over her life and being judged falsely, especially after her husband’s death. Her defensiveness in court and how she reacts to being accused reflect a deep fear of having her truth ignored or distorted."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "Sandra is intellectually sharp, able to argue persuasively and write with depth. Her courtroom testimony, as well as her ability to challenge accusations, shows her strong command of language and thought."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "She may have used an idea from her husband’s novel without clear permission, and during arguments, she prioritizes her needs over his well-being. Her behavior raises questions about emotional manipulation and honesty."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Sandra is carrying the emotional weight of her son’s accident and a troubled marriage. These events aren’t detailed in flashbacks but are revealed through arguments, books, and court testimony."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "novelist"
+        },
+        "narrative_arc": {
+          "goal_achievement": "ambiguous",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To prove her innocence in her husband's suspicious death while trying to hold on to her relationship with her son and her identity as a writer."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "All Quiet on the Western Front",
+        "year": 2022,
+        "genre": [
+          "war",
+          "drama",
+          "historical"
+        ],
+        "box_office": 2878,
+        "image_path": "public/cofanetto/allquietonthewesternfront.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Paul Bäumer"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "death",
+            "reason_specific_description": "Paul begins the war excited but quickly becomes traumatized by the violence. His fear of death becomes clear in moments like his panic during the gas attack training and his near-silent dread on the battlefield."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Despite his fear, Paul consistently puts himself in danger to protect his friends, like when he helps Kat and defends his comrades in trench combat. His bravery becomes instinctual and tragic."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Paul’s participation in the war leads him to kill in order to survive, including a brutal and personal stabbing of a French soldier. He later regrets it deeply, showing how war distorts morality."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "shit"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "While not tragic in the traditional sense, Paul’s idealistic youth is shattered by the war. He joins with friends out of nationalistic excitement, only to watch them die one by one."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "student turned soldier"
+        },
+        "narrative_arc": {
+          "goal_achievement": "not_at_all",
+          "success_metrics": "not_at_all",
+          "primary_goal": "To survive the war and retain his humanity—but he dies just before the armistice, disillusioned and alone."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Everything Everywhere All At Once",
+        "year": 2022,
+        "genre": [
+          "sci-fi",
+          "fantasy",
+          "action",
+          "drama",
+          "comedy"
+        ],
+        "box_office": 141000000,
+        "image_path": "public/cofanetto/everythingeverywhereallatonce.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Evelyn Wang"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "asian"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Evelyn is deeply afraid of being seen as a failure by her father and society. She obsesses over her IRS audit, tries to present a perfect image for her father's visit, and constantly doubts her own worth. Her indecision and frustration reflect this fear, particularly when she tells Waymond, 'You know that’s not what my father is going to see.'"
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "Despite the chaos in her life, Evelyn manages a laundromat, handles her family’s needs, and navigates a complex multiverse. Her ability to adapt and find solutions under immense pressure shows her strong resourcefulness, as seen when she quickly switches roles and begins to understand verse-jumping mechanics."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Evelyn does not betray others, but she often withholds truths or suppresses emotions, especially with her daughter Joy and her husband Waymond, in an attempt to protect or manage the situation. However, she is fundamentally loyal to her family."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "shit"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Evelyn is implied to have experienced a difficult life due to immigration, cultural conflict, and strained family ties. She has a fractured relationship with her father and regrets over past life decisions, especially seen in her multiverse flashbacks."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "laundromat owner"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To gain approval from her father and create a sense of purpose in her chaotic life, while reconciling her fractured family relationships and discovering her own self-worth across universes."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "CODA",
+        "year": 2022,
+        "genre": [
+          "drama",
+          "coming-of-age",
+          "music",
+          "family"
+        ],
+        "box_office": 19000000,
+        "image_path": "public/cofanetto/coda.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Ruby Rossi"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "teen",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Ruby fears being alone and disconnected—either emotionally or culturally. As the only hearing member of her family, she constantly bridges two worlds. Her decision to pursue music challenges her family ties and provokes her fear of abandoning them or being abandoned herself. This is shown in her outbursts and her reluctance to hurt her parents despite her passion for singing."
+          },
+          "biggest_strength": {
+            "category": "empathy",
+            "reason_specific_description": "Ruby shows strong empathy by translating for her family in personal and humiliating situations (like at the doctor’s office), advocating for their rights in fisheries meetings, and sacrificing her time to help them build a business. Her ability to emotionally connect, even while being pulled between conflicting identities, defines her strength."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Ruby struggles with loyalty versus self-actualization, but never betrays anyone. She delays her own goals for her family's sake, and even when she finally chooses music, she tries to do so while minimizing harm to them."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "shit"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "none",
+          "tragic_past_reason": [
+            "Ruby does not have a tragic past in the traditional sense. Her struggles are contemporary and internal: growing up isolated as the only hearing person in a deaf family, and finding her voice—literally and figuratively—in a world that misunderstands her."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "student and fishing deckhand"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To pursue her passion for singing and earn a place at Berklee College of Music, while managing her responsibilities to her deaf family and helping them build a new business."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Baby Driver",
+        "year": 2017,
+        "genre": [
+          "action",
+          "crime",
+          "romance",
+          "drama",
+          "thriller"
+        ],
+        "box_office": 226945087,
+        "image_path": "public/cofanetto/babyDriver.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Baby"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "Baby's fear is losing the people he loves or cares about. He is haunted by the death of his parents, particularly his mother, and later becomes deeply protective of Debora. He is also terrified of endangering his foster father or dragging Debora into his criminal world."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "Baby is an extraordinarily skilled driver and highly adaptable under pressure. His use of music to cope with tinnitus also becomes a tool that enhances his precision and performance. This ability to use what could be a weakness as a strength defines his ingenuity throughout the film."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Despite being involved in criminal activities, Baby consistently shows a strong moral compass. He refuses to carry weapons, avoids direct involvement in violence, and attempts to shield innocent people. His actions reveal discomfort and moral conflict rather than betrayal."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "orphan"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": []
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Baby lost his parents in a car accident as a child. His mother was a singer, and he listens to her songs as a way of staying connected. He also suffers from tinnitus, a result of the crash, and relies on music to cope with it. These traumas deeply shape his introverted personality and actions."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "getaway driver"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To break free from a life of crime and start fresh with Debora, while protecting those he loves and reconciling with his past traumas."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "House of Gucci",
+        "year": 2021,
+        "genre": [
+          "drama",
+          "crime",
+          "biography"
+        ],
+        "box_office": 153300000,
+        "image_path": "public/cofanetto/houseofgucci.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Patrizia Reggiani"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "extrovert",
+          "biggest_fear": {
+            "category": "poverty",
+            "reason_specific_description": "Patrizia is terrified of slipping into obscurity or financial insecurity. Her need to elevate herself from her modest background drives her ambition to control Gucci and secure her status."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Patrizia's unrelenting drive fuels her rise from a truck company bookkeeper to a power player in the Gucci family, manipulating situations to her advantage with charm and planning."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "She orchestrates Maurizio Gucci's murder after being cut out of the business and family life. She also manipulates various family members for power and status, blurring the line between loyalty and ambition."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "only_child"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Though not traditionally tragic, Patrizia’s upbringing in a lower-middle-class family shaped her deep insecurity and hunger for upward mobility, which becomes a source of inner tension."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "bookkeeper turned socialite/businesswoman"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "not_at_all",
+          "primary_goal": "To gain power and recognition within the Gucci dynasty and secure lasting wealth—but she ultimately loses everything and ends up in prison."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Inception",
+        "year": 2010,
+        "genre": [
+          "sci-fi",
+          "thriller",
+          "action"
+        ],
+        "box_office": 839000000,
+        "image_path": "public/cofanetto/inception.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Dom Cobb"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "Cobb is haunted by the death of his wife, Mal, and fears losing the memory of her or accepting his guilt. This fear follows him into dreams, where Mal appears as a projection that sabotages his missions."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "Cobb is a master of navigating complex dream layers. His deep understanding of dream architecture allows him to lead highly dangerous missions, like the inception job for Saito."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Cobb manipulates his team by hiding the truth about Mal’s presence in his subconscious. He also risks their lives for personal redemption, blurring the line between professional and selfish motives."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "damn"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Cobb’s wife, Mal, committed suicide, believing they were still dreaming, after he planted the idea in her mind during a dream. This tragedy drives his guilt and prevents him from returning to his children."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "unknown",
+          "occupation": "extractor (dream infiltration specialist)"
+        },
+        "narrative_arc": {
+          "goal_achievement": "ambiguous",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To successfully perform inception for Saito and return to the U.S. to reunite with his children—though it’s unclear if he truly escapes the dream world in the end."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Ferrari",
+        "year": 2023,
+        "genre": [
+          "drama",
+          "biography"
+        ],
+        "box_office": 41900000,
+        "image_path": "public/cofanetto/ferrari.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Enzo Ferrari"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Ferrari is obsessed with keeping the company alive and proving himself in racing, even if it risks lives or finances."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Despite personal and professional losses, he is relentless in pushing Ferrari forward, like when he insists on winning the Mille Miglia to secure the brand’s future."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": "He keeps his son Piero hidden from his wife Laura, deceiving her for years about his second life."
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": "cazzo"
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": "Ferrari lost his son Dino to illness, which deeply affects him and drives many of his emotional decisions throughout the film."
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "automobile manufacturer / entrepreneur"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To save his company and secure Ferrari's future through success in racing and finding financial backing."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Her",
+        "year": 2013,
+        "genre": [
+          "sci-fi",
+          "romance",
+          "drama"
+        ],
+        "box_office": 48700000,
+        "image_path": "public/cofanetto/her.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Theodore Twombly"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Theodore fears deep emotional isolation. Following the end of his marriage, he struggles with disconnection and the inability to share his life authentically. His longing for intimacy is expressed in everything from his profession (writing personal letters for others) to his emotional dependence on Samantha."
+          },
+          "biggest_strength": {
+            "category": "empathy",
+            "reason_specific_description": "Theodore is deeply empathetic, shown by how convincingly he writes heartfelt letters on behalf of others. He is emotionally perceptive, often reading into people’s feelings and showing compassion, especially in his interactions with Samantha and Amy."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Theodore avoids betrayal and strives to maintain emotional integrity. His internal conflict stems from being too passive or emotionally guarded, not from deceit or disloyalty."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Theodore went through an emotionally painful divorce with Catherine, which lingers throughout the narrative. His melancholy and emotional stagnation stem from unresolved grief and romantic failure, even if no explicit single tragedy is cited."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "letter writer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To rediscover love and connection in the wake of emotional loss, ultimately learning how to live with vulnerability and emotional change—even when the object of affection, Samantha, transcends him."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Kill Bill: Vol. 1",
+        "year": 2003,
+        "genre": [
+          "action",
+          "thriller",
+          "drama",
+          "martial arts"
+        ],
+        "box_office": 180949045,
+        "image_path": "public/cofanetto/killbill1.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Beatrix Kiddo (The Bride)"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "Beatrix’s fear centers around losing her unborn child and future. This fear is revealed when she tells Bill she's pregnant moments before he shoots her, which signifies her vulnerability at that moment of transition from assassin to mother."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "After awakening from a coma, she systematically hunts the Deadly Viper Assassination Squad despite severe physical and emotional trauma. Her single-minded resolve keeps her alive and on her path."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "She adheres to a personal code of vengeance without betraying allies. Her killings are deliberate and targeted at those who wronged her."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "pregnant",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "She was betrayed by her assassination team and put into a coma on her wedding day, losing her child and nearly her life."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "unknown",
+          "occupation": "former assassin"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To seek revenge against those who betrayed and nearly killed her, starting with members of the Deadly Viper Assassination Squad."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Kill Bill: Vol. 2",
+        "year": 2004,
+        "genre": [
+          "action",
+          "drama",
+          "thriller",
+          "martial arts"
+        ],
+        "box_office": 152159461,
+        "image_path": "public/cofanetto/killbill2.png"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Beatrix Kiddo (The Bride)"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "Beatrix’s fear evolves to center around losing her daughter. Her vulnerability is amplified when she pleads with Karen Wong not to kill her because she is pregnant."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "She uses both physical combat and strategic deception, including the five-point exploding heart technique and psychological misdirection, to achieve her ultimate revenge and reclaim her daughter."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Despite being an assassin, she shows compassion, such as sparing Karen Wong and showing remorse to Bill before killing him. She holds herself to her own moral logic."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Beatrix was betrayed by her former lover and mentor, shot in the head while pregnant, and left in a coma, all of which catalyze her transformation."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "unknown",
+          "occupation": "former assassin"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To kill Bill and reclaim her daughter, thereby concluding her journey of vengeance and reclaiming her identity as Beatrix and as a mother."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "American Hustle",
+        "year": 2013,
+        "genre": [
+          "drama",
+          "crime",
+          "comedy"
+        ],
+        "box_office": 251200000,
+        "image_path": "public/cofanetto/AmericanHustle.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Irving Rosenfeld"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Irving fears being exposed as a fraud and losing the delicate control he has over his business, his relationships, and his survival—seen especially in how he juggles his con operations with Sydney and his unstable marriage to Rosalyn."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "He adapts to changing situations quickly, like devising the final con to outmaneuver the FBI and mafia when things spiral out of control."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "He manipulates clients, deceives the FBI, and lies to his wife and lover to keep his scams afloat. He also cons Carmine Polito despite developing a genuine friendship with him."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "He witnessed his father being taken advantage of in the family business, which scarred him and made him resolve never to be the one getting conned again."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "con artist and loan scammer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To stay out of jail, protect his son, and end up with Sydney—he achieves some of this by outsmarting the FBI, but loses many friendships and carries guilt."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Conclave",
+        "year": 2024,
+        "genre": [
+          "drama",
+          "mystery",
+          "thriller"
+        ],
+        "box_office": 9730000,
+        "image_path": "public/cofanetto/conclave.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Cardinal Lawrence"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "senior",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Lawrence fears making the wrong decision in the papal election and compromising the Church’s integrity. His fear is tied to the immense responsibility he holds as Dean, guiding a group of flawed men to choose a new Pope amid scandal."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "He’s methodical, deeply reflective, and driven by principle, shown in how he navigates political manipulation and uncovers secrets while maintaining his moral compass and resisting corruption."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Although pressured by factions and secrets, Lawrence remains loyal to his conscience and the process, refusing to manipulate or be manipulated, even when it costs him influence."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": [
+            "none"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "The script implies a long career of sacrifice and solitude in service to the Church, marked by weariness and spiritual struggle, as seen in his difficulty with prayer and private reflection."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "Cardinal / Dean of the College of Cardinals"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To ensure the election of a morally worthy Pope while upholding spiritual truth and transparency during a time of secrecy and manipulation within the Vatican."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Don't Look Up",
+        "year": 2021,
+        "genre": [
+          "drama",
+          "comedy",
+          "sci-fi"
+        ],
+        "box_office": 79170000,
+        "image_path": "public/cofanetto/dontlookup.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Dr. Randall Mindy"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "He fears that his warnings will be ignored and humanity will face extinction. This becomes a personal and professional crisis when the government and media downplay the comet’s threat."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "As a tenured astronomy professor, he expertly calculates the trajectory of the comet and is one of the first to grasp its catastrophic implications. His scientific credibility makes him a central figure in the crisis."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Randall has an affair and becomes a public spokesperson for the administration, momentarily abandoning his integrity. He later regrets it and attempts to return to his original values and family."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "shit"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "none",
+          "tragic_past_reason": []
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "astronomy professor"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "not_at_all",
+          "primary_goal": "To alert the public and help stop the comet from destroying Earth. He ultimately fails to change the outcome but finds peace in accepting the end with loved ones."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Drive",
+        "year": 2011,
+        "genre": [
+          "action",
+          "crime",
+          "drama",
+          "thriller"
+        ],
+        "box_office": 81000000,
+        "image_path": "public/cofanetto/drive.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Driver"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "Driver fears forming emotional attachments that he cannot protect. His budding connection with Irene and her son Benicio exposes his vulnerability and loneliness. This fear is reinforced when violence enters their lives, and he sacrifices himself to protect them."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "Driver's calm under pressure, improvisation during heists, and expert driving skills repeatedly save lives. Whether evading police or surviving mob hits, he uses logic and skill rather than brute force."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Though involved in criminal activities, he holds a strict personal code: he protects the innocent (Irene and Benicio), remains loyal, and only resorts to violence when cornered. He refuses money and walks away when it means protecting others."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": []
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "While the script never explicitly states Driver’s past, his stoic demeanor, lack of personal ties, and unwillingness to discuss his life imply a history marked by emotional loss or isolation. His comfort in violence and distance from others suggests trauma or abandonment."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "stunt driver / mechanic / getaway driver"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To protect Irene and her son from the criminal world, even at great personal cost, and to find a fleeting sense of connection and meaning in a life otherwise dominated by solitude and danger."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Dunkirk",
+        "year": 2017,
+        "genre": [
+          "war",
+          "drama",
+          "thriller"
+        ],
+        "box_office": 527000000,
+        "image_path": "public/cofanetto/dunkirk.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Tommy"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "death",
+            "reason_specific_description": "Tommy is driven by the primal fear of dying in a senseless, abandoned warzone. His actions—from fleeing ambushes, hiding below the mole, to boarding doomed ships—show a deep instinct for survival, framed by the chaos around him."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Despite his fear, Tommy repeatedly risks himself to help others, such as carrying stretchers across fire, diving into sinking ships, and saving Alex. His quiet persistence and refusal to abandon his fellow soldiers marks him as resilient and courageous."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Though desperate to survive, Tommy does not betray anyone. He defends Gibson when accused of being a spy and works cooperatively with others to escape and survive."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": []
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Tommy’s history is not provided in the film, but his behavior and the trauma he endures suggest a background shaped by the brutalities of war. He appears hardened and instinctively defensive, implying early exposure to violence or abandonment."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "unknown",
+          "occupation": "soldier"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To survive the evacuation from Dunkirk and make it home alive, overcoming deadly obstacles at sea, land, and air while witnessing the human cost of war."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Focus",
+        "year": 2015,
+        "genre": [
+          "crime",
+          "comedy",
+          "romance",
+          "drama"
+        ],
+        "box_office": 158800000,
+        "image_path": "public/cofanetto/focus.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Nicky Spurgeon"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "betrayal",
+            "reason_specific_description": "Nicky fears emotional vulnerability and being deceived. His upbringing in a family of con artists and his experience with betrayal have conditioned him to never fully trust anyone, including Jess, despite his feelings for her."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "Nicky is a master manipulator and strategist. He excels at reading people, anticipating reactions, and orchestrating complex cons, as demonstrated in the Super Bowl betting scene and the multilayered grifts throughout the film."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Nicky deceives multiple characters, including Jess, in pursuit of the long con. Though he cares for her, his professional code often takes precedence, showing that he manipulates others—even those he claims to love—for the success of a scheme."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Nicky implies he was raised in a family of con artists and recounts a story about his father accidentally killing his grandfather during a heist. This shaped his worldview, leading him to distrust people and operate through manipulation and deception."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "professional con artist"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To successfully pull off high-stakes cons while managing his feelings for Jess and maintaining control over emotionally volatile situations, even when it jeopardizes the mission or his own safety."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Gladiator 2",
+        "year": 2024,
+        "genre": [
+          "drama",
+          "action",
+          "historical",
+          "thriller"
+        ],
+        "box_office": "462180717",
+        "image_path": "public/cofanetto/gladiator2.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Lucius"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "power_loss",
+            "reason_specific_description": "Lucius fears losing his autonomy and identity to Roman oppression. His resistance to being a pawn in the Roman games and his deep grief over Arishat’s death reflect a terror of becoming a tool for the empire that destroyed his world."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Lucius demonstrates fierce determination in the face of defeat, enslavement, and personal loss. He fights on, refusing to break under physical abuse, gladiatorial combat, and emotional trauma, all driven by his resolve to one day kill General Acacius."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Lucius remains loyal to Jugurtha and honors Arishat’s memory, refusing to betray allies despite immense pressure. He kills only in self-defense or when compelled to in the arena, always retaining a sense of justice and restraint."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": "fuck"
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Lucius loses Arishat, the woman he loves, during the Roman siege of Numidia. He is enslaved, branded, and forced into gladiatorial combat. His identity and humanity are stripped from him as he becomes a tool for Roman entertainment and power."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "gladiator (former officer, enslaved prisoner)"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To avenge Arishat’s death and reclaim his sense of honor and identity by killing General Acacius and resisting Roman domination."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Girl with a Pearl Earring",
+        "year": 2003,
+        "genre": [
+          "drama",
+          "romance",
+          "biography"
+        ],
+        "box_office": 33030115,
+        "image_path": "public/cofanetto/girlwiththepearlearring.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Griet"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "poverty",
+            "reason_specific_description": "Griet fears the financial instability that comes from her family's reduced circumstances after her father's accident. This fear drives her to work diligently as a maid to support her family."
+          },
+          "biggest_strength": {
+            "category": "creativity",
+            "reason_specific_description": "Griet possesses a natural artistic sensibility, evident in her understanding of color and composition, which catches Vermeer's attention and allows her to contribute meaningfully to his work."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": []
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": []
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": "Griet's family faces hardship after her father's accident leaves him blind, forcing her into servitude to support them."
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "maid"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To support her family financially while navigating the complexities of her role in Vermeer's household and her own personal growth."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Ford v Ferrari",
+        "year": 2019,
+        "genre": [
+          "drama",
+          "biography",
+          "sport"
+        ],
+        "box_office": 225500000,
+        "image_path": "public/cofanetto/fordvferrari.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Ken Miles"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Ken fears losing his identity as a racer and mechanic, especially when he's forced to compromise his racing style for corporate politics—as seen when he's asked to slow down at Le Mans for a photo finish."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "His fearless driving and mechanical precision allow him to dominate on the track, as demonstrated in the intense, record-setting Le Mans performance."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Ken is blunt and stubborn, but he's loyal to Shelby and devoted to his family. He never sacrifices others for personal gain, even when it costs him a win at Le Mans."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "bloody"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Hints at wartime trauma and the struggles of rebuilding a life in post-war America. His financial troubles and failure to secure racing sponsors also show a history of being overlooked."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "race car driver and mechanic"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To win the 24 Hours of Le Mans and prove himself as both a driver and an engineer. He accomplishes this on track, but corporate interference denies him the official win."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Maestro",
+        "year": 2023,
+        "genre": [
+          "drama",
+          "romance",
+          "biopic"
+        ],
+        "box_office": 14000000,
+        "image_path": "public/cofanetto/maestro.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Leonard Bernstein"
+        },
+        "demographics": {
+          "gender": [
+            "male"
+          ],
+          "age_range": [
+            "adult",
+            "senior"
+          ],
+          "ethnicity": [
+            "white"
+          ]
+        },
+        "personality_traits": {
+          "introvert_extrovert": [
+            "ambivert"
+          ],
+          "biggest_fear": {
+            "category": [
+              "failure"
+            ],
+            "reason_specific_description": "He fears not living up to his artistic potential and being seen as a lightweight in serious music, which haunts him throughout his life."
+          },
+          "biggest_strength": {
+            "category": [
+              "charisma"
+            ],
+            "reason_specific_description": "His charisma wins over orchestras, audiences, and friends—he electrifies Carnegie Hall during his unexpected debut."
+          },
+          "moral_ambiguity": {
+            "betrays_others": [
+              "yes"
+            ],
+            "reason_betrays_others": "He emotionally betrays his wife Felicia through affairs and secrecy, even though they remain close companions."
+          }
+        },
+        "relationships_family": {
+          "parental_status": [
+            "parent"
+          ],
+          "siblings_status": [
+            "siblings"
+          ]
+        },
+        "dialogue_analysis": {
+          "swear_frequency": [
+            "occasional"
+          ],
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": [
+            "implied"
+          ],
+          "tragic_past_reason": [
+            "He struggles with balancing his private desires and public persona in a less accepting time, leading to internal conflict and sorrow."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": [
+            "rich"
+          ],
+          "occupation": "Composer, conductor, and teacher"
+        },
+        "narrative_arc": {
+          "goal_achievement": [
+            "partially"
+          ],
+          "success_metrics": [
+            "partially"
+          ],
+          "primary_goal": "To become a respected composer and conductor while maintaining love and family stability"
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Moneyball",
+        "year": 2011,
+        "genre": [
+          "drama",
+          "biography",
+          "sport"
+        ],
+        "box_office": 110200000,
+        "image_path": "public/cofanetto/moneyball.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Billy Beane"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Billy fears being remembered as a failure, both as a general manager and as a former player who never fulfilled his early potential. This drives his unorthodox approach to winning."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Despite losing key players and having the lowest payroll, Billy relentlessly pushes a revolutionary system forward, even against the skepticism of scouts and management."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Billy is loyal to his team and his methods. While he makes difficult decisions, including trading players, he doesn't betray others out of self-interest but out of necessity for the system to work."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "shit"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Billy was a highly scouted athlete who turned down a Stanford scholarship to play professional baseball and later failed to meet expectations. His regret over that decision fuels his choices as a GM."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "General Manager of the Oakland Athletics"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To build a winning baseball team using statistical analysis rather than traditional scouting. He succeeds in changing the game but falls short of winning the World Series."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Memoirs of a Geisha",
+        "year": 2005,
+        "genre": [
+          "drama",
+          "romance",
+          "historical"
+        ],
+        "box_office": 162200000,
+        "image_path": "public/cofanetto/memoirsofageisha.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Chiyo Sakamoto / Sayuri"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "child",
+          "ethnicity": "asian"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Chiyo fears abandonment and isolation. After being separated from her sister and sold into an unfamiliar world, she clings to memories and the hope of reunion. Her desperation to find Satsu and later to earn acceptance underscores this fear."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Despite immense hardship, Chiyo perseveres through betrayal, servitude, and emotional trauma. Her resolve to rise beyond her status, impress Mameha, and ultimately become a respected geisha showcases her inner strength."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Chiyo does not betray others; she remains loyal to those who help her, like Pumpkin and Mameha. Even when faced with injustice from Hatsumomo, she does not act out of spite or treachery, instead focusing on self-preservation and resilience."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": []
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Chiyo was sold by her impoverished family into servitude, separated from her sister, and later orphaned. She endured cruelty in the okiya and betrayal from Hatsumomo, which shaped her guarded, resilient character."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "servant / geisha in training"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To survive, reunite with her sister, and ultimately become a successful geisha so she can live with dignity and cross paths again with the Chairman, who once showed her kindness."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Midnight in Paris",
+        "year": 2011,
+        "genre": [
+          "fantasy",
+          "romance",
+          "comedy",
+          "drama"
+        ],
+        "box_office": 154000000,
+        "image_path": "public/cofanetto/midnightinparis.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Gil Pender"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Gil fears living an unfulfilled life where his creative potential is stifled. He is haunted by the idea that he chose the wrong career in screenwriting and missed his chance to be a true novelist. His fear intensifies with the shallow lifestyle and unsupportive relationship he finds himself trapped in."
+          },
+          "biggest_strength": {
+            "category": "creativity",
+            "reason_specific_description": "Gil is deeply imaginative and romantic, with a vivid inner life that allows him to connect with the literary past in profound ways. His ability to time travel metaphorically and literally into nostalgic eras reveals a passionate, inquisitive mind searching for authenticity."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Gil emotionally distances himself from his fiancée Inez and keeps secrets about his nightly escapades in 1920s Paris. Though he doesn't cheat physically, his deception and growing emotional bond with Adriana mark a moral divergence from his relationship commitments."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "hell"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "none",
+          "tragic_past_reason": [
+            "Gil does not carry overt trauma, but he expresses profound regret about his professional path and dissatisfaction with his shallow Hollywood lifestyle. His past is marked more by missed opportunities than explicit tragedy."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "screenwriter / aspiring novelist"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To break free from a superficial and unfulfilling life and embrace his true artistic self, ultimately finding inspiration and romantic clarity through magical journeys into the past."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Mank",
+        "year": 2020,
+        "genre": [
+          "drama",
+          "biography"
+        ],
+        "box_office": 12200000,
+        "image_path": "public/cofanetto/mank.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Herman J. Mankiewicz"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "Mank constantly questions his contribution and legacy. In a moment of vulnerability, he tells his wife, 'I should have done something by now,' and later, 'I'm trapped... in a rat trap of my own construction.' These suggest a deep fear of professional and personal inadequacy."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "Mank is a sharp-witted, intellectually formidable writer. His dialogues are rich with wit and layered references. He is able to dismantle ideologies and people through clever language, as seen in his interactions with Hearst and Thalberg, and his satirical script for Citizen Kane."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Mank writes Citizen Kane, a thinly veiled critique of William Randolph Hearst, despite being welcomed into Hearst’s inner circle and forming a bond with Marion Davies. This is perceived as a betrayal, particularly by Marion, who pleads with him not to 'kick Pops when he’s down.'"
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": [
+            "goddamn"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "His ongoing battle with alcoholism, professional dissatisfaction, and self-destructive tendencies suggest a deeply troubled past. There's also the regretful tone in his reflections about missed opportunities and estranged relationships."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "screenwriter"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To write something of lasting value and meaning — culminating in the screenplay for Citizen Kane, which he wants recognized as his work alone, despite the consequences."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Oppenheimer",
+        "year": 2023,
+        "genre": [
+          "drama",
+          "biography",
+          "historical"
+        ],
+        "box_office": 976000000,
+        "image_path": "public/cofanetto/Oppenheimer.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "J. Robert Oppenheimer"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "power_loss",
+            "reason_specific_description": "Oppenheimer’s greatest fear is the moral and political consequences of the power he helped create. As the film progresses, he is haunted by his role in unleashing nuclear weapons and the inability to control their future use. His expressions during hearings and his inner turmoil reveal a man deeply afraid of what his legacy might become — not just what he’s done, but the fact that he can’t undo it."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "Oppenheimer’s mastery of quantum mechanics and theoretical physics, along with his ability to learn complex subjects (e.g., Dutch in six weeks), illustrates towering intellectual capacity. He could grasp abstract ideas and communicate them compellingly, attracting brilliant minds to work with him and building the foundation for the Manhattan Project."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "He alienates political allies and former friends, including Jean Tatlock and Haakon Chevalier, when he distances himself from Communist ties during security hearings.",
+              "He participates in building the atomic bomb knowing the humanitarian cost, and later suffers guilt, suggesting a betrayal of personal moral beliefs for national duty."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "He suffered from intense emotional instability as a student, culminating in a suicide attempt aimed at a tutor (the poisoned apple incident).",
+            "His relationships are filled with betrayal, guilt, and loss — notably Jean Tatlock’s eventual death and his guilt-laden relationship with his wife, Kitty."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "physicist"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To advance theoretical physics and lead the development of the atomic bomb, while later trying to control and ethically influence how such power is used by governments — ultimately struggling with the burden of what he has helped unleash."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "The Brutalist",
+        "year": 2023,
+        "genre": [
+          "drama",
+          "historical",
+          "biography"
+        ],
+        "box_office": "50300000",
+        "image_path": "public/cofanetto/the brutalist.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "László Toth"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "László fears irrelevance and being forgotten, both as an architect and as a man. His struggle to maintain dignity while destitute, and his painful interactions with clients and family, underscore his fear of not fulfilling his purpose or restoring his broken family."
+          },
+          "biggest_strength": {
+            "category": "creativity",
+            "reason_specific_description": "Despite living in hardship, László produces brilliant architectural designs and furniture. His transformation of the Van Buren library shows innovative thinking rooted in Bauhaus ideals, balancing form, light, and utility with vision."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "He oversteps personal boundaries, notably making a pass at his cousin’s wife Audrey, leading to a breakdown in trust.",
+              "He also misjudges client interactions, pushing assertively for creative control, which causes conflict and temporary financial fallout."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "goddamn"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "László is a Holocaust survivor, physically and emotionally scarred by war, displacement, and separation from his wife and niece.",
+            "He suffers from addiction and trauma, including heroin use, which he hides but cannot control."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "architect"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To rebuild a meaningful life in America, restore his professional identity as an architect, and reunite with his wife and niece while maintaining personal dignity in the face of social and economic alienation."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Arrival",
+        "year": 2016,
+        "genre": [
+          "sci-fi",
+          "drama",
+          "mystery"
+        ],
+        "box_office": 203400000,
+        "image_path": "public/cofanetto/Arrival.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Dr. Louise Banks"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "She fears the loss of her daughter, which is both a literal event and a philosophical burden once she understands time non-linearly. Knowing the pain of losing a child, she still chooses to live through it."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "Her deep understanding of linguistics and her calm approach under pressure allow her to decode the alien language, forming the basis of peaceful communication between species."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Although she keeps the full extent of what she knows to herself, especially her knowledge of the future, she acts out of compassion and clarity, not manipulation or betrayal."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "none"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Her daughter dies young from a rare illness. The tragedy is presented at the beginning and recontextualized at the end, once we understand the timeline as non-linear."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "linguist / university professor"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To communicate with the alien species and prevent global conflict, while coming to terms with the future loss of her daughter and choosing to live that life anyway."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Asteroid City",
+        "year": 2023,
+        "genre": [
+          "drama",
+          "comedy",
+          "sci-fi"
+        ],
+        "box_office": 54000000,
+        "image_path": "public/cofanetto/Asteroid City .jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Augie Steenbeck"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "Augie fears confronting the emotional pain of his wife's death, leading him to delay informing his children and suppress his grief."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Despite his emotional turmoil, Augie remains committed to his children and seeks connection, notably with Midge, reflecting his resilience."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Augie does not betray others; he struggles internally with grief but maintains his responsibilities and relationships."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "none"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "The recent death of his wife profoundly affects Augie, influencing his emotional state and interactions."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "war photographer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To navigate his grief and reconnect emotionally with his children while finding personal meaning amid existential uncertainties."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Barbie",
+        "year": 2023,
+        "genre": [
+          "fantasy",
+          "comedy",
+          "drama"
+        ],
+        "box_office": 1445000000,
+        "image_path": "public/cofanetto/Barbie.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Barbie"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Barbie fears becoming irrelevant and alone. Her existential crisis begins with thoughts of death and feelings of imperfection, triggered by a weakening link with the girl in the Real World who is playing with her. She fears losing her identity and place in the world."
+          },
+          "biggest_strength": {
+            "category": "empathy",
+            "reason_specific_description": "Despite her crisis, Barbie is open to growth and connection. She forms deep empathy for the girl and her mother in the Real World, and later expresses genuine awe and emotion for human experiences. Her transformation stems from her growing emotional awareness."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Barbie does not betray anyone. She seeks understanding and truth, even when it challenges her worldview. Her journey is one of self-discovery, not manipulation."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": 
+            "goddammit"
+          
+        },
+        "background_history": {
+          "tragic_past": "none",
+          "tragic_past_reason": [
+            "Barbie does not have a traditional tragic past but experiences an existential unraveling—feelings of death, shame, and emotional depth that disrupt her idyllic plastic life and force her to confront the human condition."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "representation of feminine ideals / existential seeker"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To understand the meaning of her existence, bridge the divide between Barbie Land and the Real World, and ultimately evolve from an idealized concept into a real, feeling human being."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Blade Runner 2049",
+        "year": 2017,
+        "genre": [
+          "sci-fi",
+          "drama",
+          "thriller"
+        ],
+        "box_office": 267000000,
+        "image_path": "public/cofanetto/Blade Runner 2049 .jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Officer K"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "identity_loss",
+            "reason_specific_description": "K fears that his life is entirely artificial and meaningless, driven by implanted memories and obedience. As a replicant, he initially accepts his status, but later wrestles with the terrifying hope and doubt that he might be something more—a 'real' person with a soul."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "K shows relentless resolve in uncovering the mystery of the replicant child. Despite pressure from the LAPD and Wallace Corp, and with his own identity unraveling, he continues to search for truth and ultimately makes a sacrifice to preserve it."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "K does not betray others. He is manipulated and used by his superiors, but once he realizes their intentions are harmful, he acts independently to protect Deckard and preserve the secret of the replicant child."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "K's memories are implants, but one stands out—a wooden horse and a traumatic experience hiding it from bullies. Later, he discovers that this memory may be real, causing him to believe he is the child born of a replicant. This belief collapses when he realizes the memory belongs to someone else."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "working_class",
+          "occupation": "blade runner / LAPD replicant officer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To find meaning in his existence by discovering the truth about the replicant child. Although he learns he is not the child, he finds purpose in ensuring Deckard meets his daughter, suggesting a choice to act with humanity despite being artificial."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "Dune",
+        "year": 2021,
+        "genre": [
+          "sci-fi",
+          "drama",
+          "action"
+        ],
+        "box_office": 402000000,
+        "image_path": "public/cofanetto/Dune.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Paul Atreides"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "power_loss",
+            "reason_specific_description": "Paul fears being consumed by the power and destiny imposed upon him — particularly the Bene Gesserit prophecy and his potential role as the Kwisatz Haderach. His growing prescient visions, combined with others' expectations, create existential dread about losing his autonomy to a future he cannot control."
+          },
+          "biggest_strength": {
+            "category": "intelligence",
+            "reason_specific_description": "Paul demonstrates early mastery in combat, politics, and mental discipline. His training under the Bene Gesserit, along with his sharp perception and strategic thinking, enables him to resist the gom jabbar test, interpret dreams with prophetic significance, and grasp the complex socio-political environment of Arrakis."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": []
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "only_child"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": []
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "Paul experiences deep psychological conflict as his identity is pulled between human and myth. While not rooted in trauma from childhood, the script implies the emotional burden of grooming him for political and prophetic roles since youth."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "noble heir"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To understand and survive his role in the political and prophetic upheaval surrounding Arrakis, and to reconcile his personal agency with the mythic expectations placed upon him."
+        }
+      }
+    },
+    {
+      "film_info": {
+        "film_name": "John Wick: Chapter 4",
+        "year": 2023,
+        "genre": [
+          "action",
+          "thriller",
+          "crime"
+        ],
+        "box_office": 432200000,
+        "image_path": "public/cofanetto/John Wick Chapter 4.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "John Wick"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "John Wick is haunted by the memory of his late wife, Helen. Her death—and the peace she represented—continues to drive his actions. Despite his violent life, what he fears most is losing the last remnants of that love and the meaning it gave his life. This is evident in his quiet grief and refusal to stop until he finds closure, or death."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "John is relentless and unwavering. Whether surviving assassins, seeking vengeance, or attempting to earn his freedom from the High Table, his resolve never wavers. His combat stamina, refusal to surrender, and tactical brilliance all showcase this strength throughout the film."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": []
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": [
+            "fuck"
+          ]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "The death of John’s wife Helen, followed by the violent loss of the dog she gifted him, set off the events that pulled him back into the underworld he tried to leave. His past as a legendary assassin weighs heavily on him, making him both feared and emotionally tormented."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "unknown",
+          "occupation": "assassin (retired and reinstated)"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To find freedom and peace by confronting the High Table’s absolute control, while avenging betrayals and seeking meaning through a brutal final journey of vengeance and personal reckoning."
+        }
+      }
+    },
+
+    {
+      "film_info": {
+        "film_name": "The Killer",
+        "year": 2023,
+        "genre": ["thriller", "drama", "action"],
+        "box_office": 0,
+        "image_path": "public/cofanetto/thekiller2023.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "The Killer"
+        },
+        "demographics": {
+          "gender": "male",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "He constantly obsesses over maintaining control and precision, and deeply fears making a mistake. This is shown when he reflects intensely after botching a hit in Paris."
+          },
+          "biggest_strength": {
+            "category": "resourcefulness",
+            "reason_specific_description": "He is a meticulous planner who adapts quickly under pressure. His ability to infiltrate, surveil, and eliminate targets in various countries with minimal trace shows this strength."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "Though he sees himself as professional and without emotion, he eliminates even those who once helped him (like The Expert) to tie up loose ends and protect himself."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": ["fuck"]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "His stoic detachment and discipline suggest a life shaped by trauma or isolation, but nothing explicit is revealed."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "contract killer"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To eliminate everyone responsible for the attack on his partner and restore control over his carefully managed life."
+        }
+      }
+    },
+
+    {
+      "film_info": {
+        "film_name": "The Devil Wears Prada",
+        "year": 2006,
+        "genre": ["drama", "comedy"],
+        "box_office": 326700000,
+        "image_path": "public/cofanetto/the devil wears prada.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Andrea 'Andy' Sachs"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "ambivert",
+          "biggest_fear": {
+            "category": "failure",
+            "reason_specific_description": "She fears failing to make something meaningful of her career, which is why she endures the difficult job at Runway to open doors for herself as a journalist."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Despite being out of her element in the fashion world, Andy quickly adapts, evolves, and excels—earning Miranda Priestly’s respect through hard work and commitment."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "yes",
+            "reason_betrays_others": [
+              "She prioritizes her career advancement over her relationships, especially with her boyfriend Nate and best friend Lily, but later realizes this and tries to repair the damage."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": ["damn"]
+        },
+        "background_history": {
+          "tragic_past": "none",
+          "tragic_past_reason": ["There is no mention of trauma or tragedy in her background; she comes from a supportive middle-class family and recently graduated college."]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "journalist / fashion magazine assistant"
+        },
+        "narrative_arc": {
+          "goal_achievement": "fully",
+          "success_metrics": "fully",
+          "primary_goal": "To grow professionally and prove herself as a journalist, while navigating the ethical compromises of career ambition."
+        }
+      }
+    },
+
+    {
+      "film_info": {
+        "film_name": "The Hunger Games",
+        "year": 2013,
+        "genre": ["action", "drama", "sci-fi"],
+        "box_office": 865000000,
+        "image_path": "public/cofanetto/The Hunger Games Catching Fire.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Katniss Everdeen"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "love_loss",
+            "reason_specific_description": "She constantly fears for the safety of her loved ones—especially Prim and her mother—as President Snow uses them as leverage to manipulate her into compliance."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Katniss repeatedly risks her life for others, from volunteering in place of her sister to becoming a symbol of resistance against the Capitol's tyranny."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "While she keeps secrets for the rebellion, she never betrays allies or acts selfishly; she is motivated by protection and survival, not manipulation."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": ["none"]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Her father died in a mining accident, forcing her to become the provider for her family from a young age, shaping her resilience and emotional guardedness."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "poor",
+          "occupation": "Hunter"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To protect her family and survive the political manipulation of the Capitol, while becoming a reluctant symbol of rebellion."
+        }
+      }
+    },
+
+    {
+      "film_info": {
+        "film_name": "Sicario",
+        "year": 2015,
+        "genre": ["crime", "drama", "thriller", "action"],
+        "box_office": 84900000,
+        "image_path": "public/cofanetto/sicario.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Kate Macer"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "power_loss",
+            "reason_specific_description": "Kate fears losing control and being used as a pawn in operations she doesn't understand. Her frustration builds as she is repeatedly kept in the dark and manipulated by the task force she joins, leading her to question her values and authority."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Kate consistently demonstrates moral and physical courage. From leading an FBI raid that uncovers mass graves to surviving a deadly convoy shootout, she continues to stand for law and order despite overwhelming corruption and violence."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Kate tries to uphold legal standards even as those around her resort to unethical means. Though tempted and tested, she never crosses the line of betrayal and remains committed to doing what is right, even if it isolates her."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "occasional",
+          "most_used_swear_word": ["fuck"]
+        },
+        "background_history": {
+          "tragic_past": "implied",
+          "tragic_past_reason": [
+            "While her past is not detailed, her hardened demeanor, divorce, and total immersion in work suggest past emotional wounds and personal sacrifices tied to her commitment to justice and law enforcement."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "FBI agent (kidnapping response team)"
+        },
+        "narrative_arc": {
+          "goal_achievement": "not_at_all",
+          "success_metrics": "not_at_all",
+          "primary_goal": "To dismantle cartel operations legally and uphold justice, only to discover she is being used to legitimize covert operations that break the law and moral boundaries, ultimately leaving her disillusioned."
+        }
+      }
+    },
+
+    {
+      "film_info": {
+        "film_name": "The Danish Girl",
+        "year": 2015,
+        "genre": ["drama", "biography", "romance"],
+        "box_office": 64400000,
+        "image_path": "public/cofanetto/The Danish Girl.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Einar Wegener / Lili Elbe"
+        },
+        "demographics": {
+          "gender": "non-binary",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Einar fears never being fully seen or accepted as Lili. This is evident in how they seek Gerda's understanding, dread institutionalization, and feel conflicted around Henrik's affection and society's scrutiny."
+          },
+          "biggest_strength": {
+            "category": "courage",
+            "reason_specific_description": "Lili demonstrates immense bravery by embracing her identity in a time of extreme social stigma. From wearing women’s clothing publicly to undergoing experimental surgery, her commitment to becoming her true self is unwavering."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": []
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "unknown"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "never",
+          "most_used_swear_word": [""]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": "As a child, Einar was caught by his father kissing a boy (Hans) and was harshly punished, leading to deep internal repression. This experience foreshadowed the lifelong struggle with gender identity."
+        },
+        "socioeconomic": {
+          "income_level": "middle_class",
+          "occupation": "painter"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "partially",
+          "primary_goal": "To live authentically as Lili, fully embracing her gender identity, and undergoing physical transition to match her inner self despite the medical and social risks."
+        }
+      }
+    },
+
+    {
+      "film_info": {
+        "film_name": "Maria",
+        "year": 2024,
+        "genre": ["biography", "drama", "music"],
+        "box_office": 0,
+        "image_path": "public/cofanetto/maria.jpg"
+      },
+      "character_analysis": {
+        "metadata": {
+          "character_name": "Maria Callas"
+        },
+        "demographics": {
+          "gender": "female",
+          "age_range": "adult",
+          "ethnicity": "white"
+        },
+        "personality_traits": {
+          "introvert_extrovert": "introvert",
+          "biggest_fear": {
+            "category": "loneliness",
+            "reason_specific_description": "Maria is haunted by solitude, fame's impermanence, and being forgotten. Her vivid memories and hallucinations reflect an intense fear of being alone without voice, purpose, or love."
+          },
+          "biggest_strength": {
+            "category": "determination",
+            "reason_specific_description": "Despite being isolated and physically declining, Maria remains fiercely independent. She resists intervention from others, and even with a fading voice and emotional instability, she remains committed to reclaiming her artistic identity on her terms."
+          },
+          "moral_ambiguity": {
+            "betrays_others": "no",
+            "reason_betrays_others": [
+              "Maria is loyal, especially to those close to her like Ferruccio and Bruna. She is self-destructive but not manipulative or deceptive toward others."
+            ]
+          }
+        },
+        "relationships_family": {
+          "parental_status": "not_parent",
+          "siblings_status": "siblings"
+        },
+        "dialogue_analysis": {
+          "swear_frequency": "rare",
+          "most_used_swear_word": ["fuck"]
+        },
+        "background_history": {
+          "tragic_past": "explicit",
+          "tragic_past_reason": [
+            "Maria recalls traumatic childhood memories, including performing degrading songs for Nazi soldiers under her mother's coercion. Her complex relationships with her sister and Onassis also reflect deep emotional scars."
+          ]
+        },
+        "socioeconomic": {
+          "income_level": "rich",
+          "occupation": "opera singer (retired)"
+        },
+        "narrative_arc": {
+          "goal_achievement": "partially",
+          "success_metrics": "ambiguous",
+          "primary_goal": "To reclaim her sense of self through voice and memory, confronting her past, artistry, and fading fame as she attempts to sing again despite emotional and physical decline."
+        }
+      }
+    }
+    
+
+
+    
+    
+
+    
+    
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  ]
+}

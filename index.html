@@ -5,74 +5,180 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Film Filter Mobile Controller</title>
+    <link href="https://fonts.googleapis.com/css2?family=Input+Mono:wght@400;800;900&display=swap" rel="stylesheet">
     <style>
       body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-        padding: 20px;
-        max-width: 600px;
-        margin: 0 auto;
+        font-family: 'Input Mono', monospace;
+        margin: 0;
+        padding: 0;
         background-color: #1a1a1a;
-        color: white;
+        min-height: 100vh;
       }
-      h1 {
-        text-align: center;
-        margin-bottom: 30px;
-        font-size: 24px;
-      }
-      .buttons-container {
+      #intro-screen {
         display: flex;
-        flex-wrap: wrap;
-        gap: 10px;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        background-color: #1a1a1a;
       }
-      button {
-        background-color: #333;
-        color: white;
-        border: none;
-        padding: 10px 16px;
-        border-radius: 50px;
-        font-size: 16px;
+      #intro-text {
+        color: #D9D9D9;
+        font-size: 24px;
+        font-weight: 900;
+        text-align: center;
+        cursor: default;
+        max-width: 80%;
+        line-height: 1.4;
+      }
+      #intro-text.typing-complete {
         cursor: pointer;
-        transition: background-color 0.3s, transform 0.2s;
       }
-      button:active {
-        transform: scale(0.95);
+
+      .fade-out {
+        opacity: 0;
+        transition: opacity 0.8s ease-out;
       }
-      button:hover {
-        background-color: #444;
+      #main-app {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+        min-height: 100vh;
       }
-      #reset_filters {
-        background-color: #555;
-        margin-top: 30px;
-        width: 100%;
-        padding: 15px;
-        font-weight: bold;
+      .header-rect {
+        font-weight: 900;
+        font-size: 17px;
+        width: 221px;
+        height: 45px;
+        border: 3px solid #D9D9D9;
+        border-radius: 14px;
+        background: transparent;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #D9D9D9;
+        margin-bottom: 35px;
+        white-space: nowrap;
+      }
+      .filters-grid {
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+      }
+      .filter-rect {
+        width: 221px;
+        height: 45px;
+        background-color: #D9D9D9;
+        color: black;
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 800;
+        border-radius: 14px;
+        font-family: 'Input Mono', monospace;
       }
     </style>
   </head>
   <body>
-    <h1>Film Filter Remote Control</h1>
-    
-    <!-- Reset Button -->
-    <button id="reset_filters">Reset All Filters</button>
-    
-    <!-- Category Buttons -->
-    <div class="buttons-container">
-      <button id="demographics_gender">Gender</button>
-      <button id="demographics_ethnicity">Ethnicity</button>
-      <button id="demographics_age_range">Age Range</button>
-      <button id="personality_traits_introvert_extrovert">Personality Traits</button>
-      <button id="personality_traits_biggest_strength_category">Qualities</button>
-      <button id="personality_traits_biggest_fear_category">Biggest Fear</button>
-      <button id="moral_ambiguity_betrays_others">Betrays Others</button>
-      <button id="background_history_tragic_past">Tragic Past</button>
-      <button id="socioeconomic_income_level">Income Level</button>
-      <button id="narrative_arc_goal_achievement">Goal Achievement</button>
-      <button id="narrative_arc_success_metrics">Success Metrics</button>
-      <button id="relationships_family_parental_status">Parental Status</button>
-      <button id="relationships_family_siblings_status">Siblings Status</button>
-      <button id="dialogue_analysis_swear_frequency">Swear Frequency</button>
+    <div id="intro-screen">
+      <div id="intro-text"></div>
     </div>
     
+    <div id="main-app">
+      <div class="header-rect">Filter moovies by:</div>
+      
+      <div class="filters-grid">
+        <button class="filter-rect" id="demographics_gender">GENDERS</button>
+        <button class="filter-rect" id="demographics_ethnicity">ETHNICITIES</button>
+        <button class="filter-rect" id="demographics_age_range">AGE RANGE</button>
+        <button class="filter-rect" id="personality_traits_introvert_extrovert">PERSONALITY TRAITS</button>
+        <button class="filter-rect" id="personality_traits_biggest_strength_category">BIGGEST STRENGTHS</button>
+        <button class="filter-rect" id="personality_traits_biggest_fear_category">BIGGEST FEARS</button>
+        <button class="filter-rect" id="moral_ambiguity_betrays_others">BETRAYAL</button>
+        <button class="filter-rect" id="background_history_tragic_past">TRAGIC PAST</button>
+        <button class="filter-rect" id="socioeconomic_income_level">INCOME LEVEL</button>
+        <button class="filter-rect" id="narrative_arc_goal_achievement">GOAL ACHIEVEMENT</button>
+        <button class="filter-rect" id="relationships_family_parental_status">PARENTAL STATUS</button>
+        <button class="filter-rect" id="dialogue_analysis_swear_frequency">SWEAR FREQUENCY</button>
+      </div>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+    <script src="parallelepiped.js"></script>
+    <script src="/js/dataProcessor.js"></script>
+    <script src="/js/uiManager.js"></script>
+    <script>
+      // Wait for all scripts to load
+      window.addEventListener('load', function() {
+          console.log('StandaloneParallelepiped available:', typeof StandaloneParallelepiped !== 'undefined');
+      });
+      
+      /**
+       * intro.js - Introduction screen with typewriter effect
+       */
+      const IntroScreen = (function() {
+          const text = "Who are the protagonist that we enjoy the most?";
+          let isTypingComplete = false;
+          let onComplete = null;
+
+          function typeWriter(element, text, speed = 1) { 
+              let i = 0;
+              
+              function type() {
+                  if (i < text.length) {
+                      element.textContent += text.charAt(i);
+                      i++;
+                      setTimeout(type, speed);
+                  } else {
+                      element.classList.add('typing-complete');
+                      isTypingComplete = true;
+                      element.addEventListener('click', handleClick);
+                  }
+              }
+              
+              type();
+          }
+
+          function handleClick() {
+              if (!isTypingComplete) return;
+              
+              const introScreen = document.getElementById('intro-screen');
+              const mainApp = document.getElementById('main-app');
+              
+              introScreen.classList.add('fade-out');
+              
+              setTimeout(() => {
+                  introScreen.style.display = 'none';
+                  mainApp.style.display = 'flex';
+                  if (onComplete) onComplete();
+                  
+                  // Add filter button event listeners
+                  document.querySelectorAll('.filter-rect').forEach(button => {
+                    button.addEventListener('click', (e) => {
+                      const data = processFilterData(e.target.id);
+                      if (data) showResults(data);
+                    });
+                  });
+              }, 800);
+          }
+
+          function init(callback) {
+              onComplete = callback;
+              const introText = document.getElementById('intro-text');
+              typeWriter(introText, text);
+          }
+
+          return { init };
+      })();
+
+      // Initialize intro screen when page loads
+      document.addEventListener('DOMContentLoaded', function() {
+          IntroScreen.init();
+      });
+    </script>
     <script type="module" src="/js/mainMobile.js"></script>
   </body>
 </html> 
