@@ -5,6 +5,19 @@ function toggleParallelepiped(movieId, filmName, imagePath) {
   const container = document.getElementById(`${movieId}-parallelepiped`);
   const isExpanded = container.style.height !== '0px' && container.style.height !== '';
   
+  // Generate film ID using the same logic as filmIds.js
+  const filmId = `film-${filmName.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase()}`;
+  
+  // Send film selection to Firebase (same as categories)
+  if (window.firebase) {
+    window.firebase.send("remoteControl", {
+      id: filmId,
+      filmName: filmName,
+      type: 'film',
+      date: new Date().getTime()
+    });
+  }
+  
   if (isExpanded) {
     container.style.height = '0px';
     container.innerHTML = '';

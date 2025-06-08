@@ -1,6 +1,7 @@
 import Firebase from "./Firebase";
 
-const firebase= new Firebase();
+const firebase = new Firebase();
+window.firebase = firebase;
 
 const allButtons = document.getElementsByTagName("button");
 Array.from(allButtons).forEach(element => {

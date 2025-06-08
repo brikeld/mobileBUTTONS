@@ -13,7 +13,7 @@ const FILM_IDS = {
   'A Beautiful Mind': 'film-a-beautiful-mind',
   'Crash': 'film-crash',
   'The Departed': 'film-the-departed',
-  'Birdman or (The Unexpected Virtue of Ignorance)': 'film-birdman-or-the-unexpected-virtue-of-ignorance-',
+  'Birdman': 'film-birdman',
   '12 Years a Slave': 'film-12-years-a-slave',
   'Spotlight': 'film-spotlight',
   'Moonlight': 'film-moonlight',
@@ -62,7 +62,7 @@ const FILM_IDS = {
   'John Wick: Chapter 4': 'film-john-wick-chapter-4',
   'The Killer': 'film-the-killer',
   'The Devil Wears Prada': 'film-the-devil-wears-prada',
-  'The Hunger Games Catching Fire': 'film-the-hunger-games-catching-fire',
+  'The Hunger Games': 'film-the-hunger-games',
   'Sicario': 'film-sicario',
   'The Danish Girl': 'film-the-danish-girl',
   'Maria': 'film-maria'
