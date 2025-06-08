@@ -48,7 +48,7 @@
       .header-rect {
         font-weight: 900;
         font-size: 17px;
-        width: 221px;
+        width: 320px;
         height: 45px;
         border: 3px solid #D9D9D9;
         border-radius: 14px;
@@ -80,6 +80,21 @@
         border-radius: 14px;
         font-family: 'Input Mono', monospace;
       }
+      .answer-rect {
+        width: 221px;
+        height: 45px;
+        background: transparent;
+        color: #D9D9D9;
+        border: 3px solid #D9D9D9;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 16px;
+        font-weight: 800;
+        border-radius: 14px;
+        font-family: 'Input Mono', monospace;
+      }
     </style>
   </head>
   <body>
@@ -88,7 +103,7 @@
     </div>
     
     <div id="main-app">
-      <div class="header-rect">Filter moovies by:</div>
+      <div class="header-rect">Filter the main characters by:</div>
       
       <div class="filters-grid">
         <button class="filter-rect" id="demographics_gender">GENDERS</button>
@@ -103,6 +118,7 @@
         <button class="filter-rect" id="narrative_arc_goal_achievement">GOAL ACHIEVEMENT</button>
         <button class="filter-rect" id="relationships_family_parental_status">PARENTAL STATUS</button>
         <button class="filter-rect" id="dialogue_analysis_swear_frequency">SWEAR FREQUENCY</button>
+        <button class="answer-rect" id="final-answer">Answer</button>
       </div>
     </div>
     
