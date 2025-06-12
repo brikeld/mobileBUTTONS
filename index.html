@@ -48,9 +48,9 @@
       .header-rect {
         font-weight: 900;
         font-size: 17px;
-        width: 320px;
+        width: 100%;
         height: 45px;
-        border: 3px solid #D9D9D9;
+        /* border: 3px solid #ffffff; */
         border-radius: 14px;
         background: transparent;
         display: flex;
@@ -60,28 +60,15 @@
         margin-bottom: 35px;
         white-space: nowrap;
       }
-      .filters-grid {
+      .filters-container {
         display: flex;
         flex-direction: column;
-        gap: 14px;
-      }
-      .filter-rect {
-        width: 221px;
-        height: 45px;
-        background-color: #D9D9D9;
-        color: black;
-        border: none;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        cursor: pointer;
-        font-size: 16px;
-        font-weight: 800;
-        border-radius: 14px;
-        font-family: 'Input Mono', monospace;
+        gap: 20px;
+        width: 100%;
+        max-width: 360px;
       }
       .answer-rect {
-        width: 221px;
+        width: 100%;
         height: 45px;
         background: transparent;
         color: #D9D9D9;
@@ -94,6 +81,35 @@
         font-weight: 800;
         border-radius: 14px;
         font-family: 'Input Mono', monospace;
+      }
+      .filters-grid {
+        display: flex;
+        gap: 12px;
+      }
+      .filter-column {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+        flex: 1;
+      }
+      .filter-rect {
+        width: 100%;
+        height: 45px;
+        background-color: #D9D9D9;
+        color: black;
+        border: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        font-size: 15px;
+        font-weight: 800;
+        border-radius: 14px;
+        font-family: 'Input Mono', monospace;
+        transition: transform 0.1s ease;
+      }
+      .filter-rect:active {
+        transform: scale(.85) translateY(1px);
       }
     </style>
   </head>
@@ -105,19 +121,26 @@
     <div id="main-app">
       <div class="header-rect">Filter the main characters by:</div>
       
-      <div class="filters-grid">
-        <button class="filter-rect" id="demographics_gender">GENDERS</button>
-        <button class="filter-rect" id="demographics_ethnicity">ETHNICITIES</button>
-        <button class="filter-rect" id="demographics_age_range">AGE RANGE</button>
-        <button class="filter-rect" id="personality_traits_introvert_extrovert">PERSONALITY TRAITS</button>
-        <button class="filter-rect" id="personality_traits_biggest_strength_category">BIGGEST STRENGTHS</button>
-        <button class="filter-rect" id="personality_traits_biggest_fear_category">BIGGEST FEARS</button>
-        <button class="filter-rect" id="moral_ambiguity_betrays_others">BETRAYAL</button>
-        <button class="filter-rect" id="background_history_tragic_past">TRAGIC PAST</button>
-        <button class="filter-rect" id="socioeconomic_income_level">INCOME LEVEL</button>
-        <button class="filter-rect" id="narrative_arc_goal_achievement">GOAL ACHIEVEMENT</button>
-        <button class="filter-rect" id="relationships_family_parental_status">PARENTAL STATUS</button>
-        <button class="filter-rect" id="dialogue_analysis_swear_frequency">SWEAR FREQUENCY</button>
+      <div class="filters-container">
+        <div class="filters-grid">
+          <div class="filter-column">
+            <button class="filter-rect" id="demographics_gender">GENDERS</button>
+            <button class="filter-rect" id="demographics_ethnicity">ETHNICITIES</button>
+            <button class="filter-rect" id="demographics_age_range">AGE RANGE</button>
+            <button class="filter-rect" id="personality_traits_introvert_extrovert">PERSONALITY TRAITS</button>
+            <button class="filter-rect" id="personality_traits_biggest_strength_category">BIGGEST STRENGTHS</button>
+            <button class="filter-rect" id="personality_traits_biggest_fear_category">BIGGEST FEARS</button>
+          </div>
+          <div class="filter-column">
+            <button class="filter-rect" id="moral_ambiguity_betrays_others">BETRAYAL</button>
+            <button class="filter-rect" id="background_history_tragic_past">TRAGIC PAST</button>
+            <button class="filter-rect" id="socioeconomic_income_level">INCOME LEVEL</button>
+            <button class="filter-rect" id="narrative_arc_goal_achievement">GOAL ACHIEVEMENT</button>
+            <button class="filter-rect" id="relationships_family_parental_status">PARENTAL STATUS</button>
+            <button class="filter-rect" id="dialogue_analysis_swear_frequency">SWEAR FREQUENCY</button>
+          </div>
+        </div>
+        
         <button class="answer-rect" id="final-answer">Answer</button>
       </div>
     </div>
